@@ -1,3 +1,3 @@
 # BBC
 
-<img style="width:100px" src="hurricane.gif" alt="description of gif" /> 
+<img style="width:300px" src="hurricane.gif" alt="description of gif" /> 
