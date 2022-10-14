@@ -8,4 +8,4 @@
 
 <h2>Initial Sketch / Brainstorm</h2>
 
-<img style="width:500px; margin: 0 auto" src="hurricane_sketch.png" alt="hurricane sketch" /> 
+<img style="width:800px; margin: 0 auto" src="hurricane_sketch.png" alt="hurricane sketch" /> 
