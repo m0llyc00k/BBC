@@ -2,16 +2,20 @@
 
 <!-- <img style="width:300px" src="hurricane.gif" alt="description of gif" /> 
  -->
-<img style="width:500px; margin: 0 auto" src="hurricane_submit.gif" alt="hurricane gif" /> 
+ 
+ <h2>1. Bring an example of what you think is the ‘best infographic’ you have ever seen. We may ask you follow up questions. </h2>
+ 
+ <a href="https://projects.fivethirtyeight.com/2016-election-forecast/">Five Thirty Eight's 2016 Election Forecast</a>
 
-<hr>
+ <hr>
 
-<h2>Initial Sketch / Brainstorm</h2>
+ <h2>2. Create a static or animated infographic that explains how hurricanes/cyclones work – design this for Instagram.</h2>
+ 
+ <h3>Initial Sketch / Brainstorm</h2>
 
 <img style="width:800px; margin: 0 auto" src="hurricane_sketch.png" alt="hurricane sketch" /> 
 
-<hr>
+ <h3>Animated Instagram Graphic</h2>
 
-<h2> What is the best infographic you've ever seen? </h2>
- 
- <a href="https://projects.fivethirtyeight.com/2016-election-forecast/">Five Thirty Eight's 2016 Election Forecast</a>
+<img style="width:500px; margin: 0 auto" src="hurricane_submit.gif" alt="hurricane gif" /> 
+
