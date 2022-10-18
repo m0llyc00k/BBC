@@ -12,6 +12,6 @@
 
 <hr>
 
-<h2> What is the best infographic you've ever seen? </h2?
+<h2> What is the best infographic you've ever seen? </h2>
  
  <a href="https://projects.fivethirtyeight.com/2016-election-forecast/">Five Thirty Eight's 2016 Election Forecast</a>
