@@ -5,7 +5,7 @@
  
  <h2>1. Bring an example of what you think is the ‘best infographic’ you have ever seen.</h2>
  
- <a href="https://projects.fivethirtyeight.com/2016-election-forecast/">Five Thirty Eight's 2016 Election Forecast</a>
+ <a href="https://projects.fivethirtyeight.com/2016-election-forecast/">Five Thirty Eight's 2016 Election Forecast Dashboard</a> more accurately depicts the United States electoral college elections than most conventional geographical representations do, which best visualized the uncertainty of the 2016 election better than most other forecasts.  
 
  <hr>
 
